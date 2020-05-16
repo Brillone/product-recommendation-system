@@ -1,0 +1,28 @@
+# Data #
+###################
+*.pickle
+*.env
+*.gz
+*.parquet
+*.zip
+
+# logs #
+###################
+*.log
+
+# config files #
+###################
+#.pytest_cache/
+#.idea/
+__pycache__/
+
+# Notebooks files #
+###################
+.ipynb_checkpoints/
+
+# specific files #
+######################
+
+
+# Exceptions #
+######################
