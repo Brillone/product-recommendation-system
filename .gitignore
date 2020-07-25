@@ -9,11 +9,11 @@
 # logs #
 ###################
 *.log
+*.text
 
-# IDEA config files #
+# vscode #
 ###################
-*/.idea/workspace.xml
-*/.idea/tasks.xml
+
 
 # bytecode #
 ############
